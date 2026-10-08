@@ -1,0 +1,8 @@
+.gradle/
+local.properties
+build/
+app/build/
+build-native/
+build-tests/
+personal-test.keystore
+*.apk
